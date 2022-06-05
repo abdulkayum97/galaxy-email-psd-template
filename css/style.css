@@ -15,11 +15,6 @@ nav {
     align-items: center;
 }
 
-.logo {}
-
-.logo img {}
-
-nav .unsubscribe {}
 
 .banner {
     background-image: url(../images/banner.jpg);
@@ -30,7 +25,6 @@ nav .unsubscribe {}
     position: relative;
 }
 
-.banner .overlay {}
 
 .banner .content {
     width: 50%;
@@ -76,11 +70,6 @@ nav .unsubscribe {}
     background-color: #f7f7f7;
 }
 
-.service .left {}
-
-.service .center {}
-
-.service .right {}
 
 .service .icon {
     width: 80px;
@@ -108,7 +97,6 @@ nav .unsubscribe {}
     padding: 15px 0;
 }
 
-.service p {}
 
 .testimonial {
     padding: 80px 34% 0;
@@ -141,7 +129,6 @@ nav .unsubscribe {}
     padding: 30px 0 10px;
 }
 
-.portfolio .box p {}
 
 .blog {
     padding: 80px 10%;
@@ -151,7 +138,6 @@ nav .unsubscribe {}
 .blog h2 {
     text-align: center;
     margin-bottom: 50px;
-    font-size: 36px;
 }
 
 .blog .box {
@@ -170,10 +156,8 @@ nav .unsubscribe {}
 .blog .box .item h4 {
     color: #fb6e52;
     padding: 15px 0;
-    font-size: 24px;
 }
 
-.blog .box .item p {}
 
 
 footer {
@@ -194,8 +178,6 @@ footer .left img {
     margin-right: 20px;
 }
 
-footer .left p {}
-
 footer .right {
     /* display: flex; */
     width: 12%;
@@ -210,5 +192,3 @@ footer .right ul {
     color: white;
     /* align-items: center; */
 }
-
-footer .right ul li {}
