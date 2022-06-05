@@ -91,19 +91,12 @@ nav .unsubscribe {}
     align-items: center;
     display: flex;
     justify-content: center;
-    border: 1px solid #FB6E52;
     transition: .5s all ease-in-out;
 
 }
 
 .service .icon:hover {
-    background-color: white;
-    border: 1px solid #FB6E52;
-}
-
-.service .icon:hover i {
-    color: #fb6e52;
-
+    background-color: #292C34;
 }
 
 .service .icon i {
