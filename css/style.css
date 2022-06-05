@@ -138,6 +138,7 @@ nav {
 .blog h2 {
     text-align: center;
     margin-bottom: 50px;
+    font-size: 30px;
 }
 
 .blog .box {
@@ -156,6 +157,7 @@ nav {
 .blog .box .item h4 {
     color: #fb6e52;
     padding: 15px 0;
+    font-size: 20px;
 }
 
 
@@ -179,10 +181,7 @@ footer .left img {
 }
 
 footer .right {
-    /* display: flex; */
     width: 12%;
-    /* align-items: center; */
-    /* display: flex; */
 }
 
 footer .right ul {
@@ -190,5 +189,4 @@ footer .right ul {
     justify-content: space-between;
     list-style: none;
     color: white;
-    /* align-items: center; */
 }
