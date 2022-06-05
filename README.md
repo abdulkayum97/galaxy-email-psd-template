@@ -1,0 +1,1 @@
+# galaxy-email-psd-template
